@@ -1,17 +1,23 @@
 # Neural network architectures
 
-### Hidden layers and back-propagation
+## Hidden layers and back-propagation
 
-### Feed-Forward Neural Network
+### What is a layer
 
-### Recurrent NN
+### What are hidden layers
 
-### Convolutional NN
+### What can hidden layers accomplish
 
-### Deconvolutional NN
+## Feed-Forward Neural Network
 
-### Modular NN
+## Recurrent NN
 
-### Transformers
+## Convolutional NN
+
+## Deconvolutional NN
+
+## Modular NN
+
+## Transformers
 
 

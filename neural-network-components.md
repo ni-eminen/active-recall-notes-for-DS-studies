@@ -54,4 +54,10 @@ A perceptron makes predictions based on weights, that have been adjusted in the 
 ### What is a neuron
 A neuron is a singular node within a neural network that is associated with a weight and an activation function. As an input is given to a neuron, it is multiplied by the weight and passed into the activation function.
 
-### Hidden layer networks 
+### What is a loss function
+
+### What is an optimization algorithm
+
+### What is gradient descent, adam and RMSprop
+
+### What is a hyperparameter 
