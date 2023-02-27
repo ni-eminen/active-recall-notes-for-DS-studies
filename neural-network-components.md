@@ -49,7 +49,6 @@ A perceptron consists of two layers; the input layer and the output layer. A per
 
 
 ### How does a perceptron work
-
-### Where is the perceptrong in the NN
+A perceptron makes predictions based on weights, that have been adjusted in the training phase of developement. The perceptron is trained by feeding it a number of inputs and target outputs, from which it determines the correct weights based on its loss function. For example, if it was fed an input vector [0, 1], that should return 0 as prediction, yet the perceptron predicts 1 as output, the loss for the prediction is prediction - target = 1 - 0 = 1. Based on the loss, the perceptron can make a correction in its weights. 
 
 ### What is a neuron
