@@ -17,13 +17,14 @@ A feed-forward NN is a neural network that doesn't form cycles between its nodes
 
 ## Recurrent neural network
 RNN's nodes can form cycles, which allows for an ouput of an earlier input to affect the output of subsequent inputs. RNNs can take an unlimited series of inputs, which makes them particularly applicable to problems like speech recognition and handwriting recognition.
+RNN's learn not only during training, but also while processing new inputs.
 
 ## Convolutional NN
+
 
 ## Deconvolutional NN
 
 ## Modular NN
 
 ## Transformers
-
-
+The transformer model was introduced in Google Brain's paper "Attention is All You Need" in 2017. The transformer model is solely based on multi-head and self attention layers, where no recurrence is needed. The transfomer uses an encoder-decoder architecture. Transformers are significantly faster to train than their predecessors, that used attention in conjunction with convolution and recurrent layers. Since the paper was released, transformers have been used for a wide range of problems from video and audio to text.
