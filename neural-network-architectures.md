@@ -13,8 +13,9 @@ Hidden layers can make the neural networks nonlinear.
 ### What is back-propagation
 
 ## Feed-Forward Neural Network
+A feed-forward NN is a neural network that doesn't form cycles between its nodes. It is one of the most simple architectures for neural networks.
 
-## Recurrent NN
+## Recurrent neural network
 
 ## Convolutional NN
 
