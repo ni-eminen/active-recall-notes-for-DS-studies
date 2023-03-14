@@ -16,6 +16,7 @@ Hidden layers can make the neural networks nonlinear.
 A feed-forward NN is a neural network that doesn't form cycles between its nodes. It is one of the most simple architectures for neural networks.
 
 ## Recurrent neural network
+RNN's nodes can form cycles, which allows for an ouput of an earlier input to affect the output of subsequent inputs. RNNs can take an unlimited series of inputs, which makes them particularly applicable to problems like speech recognition and handwriting recognition.
 
 ## Convolutional NN
 
