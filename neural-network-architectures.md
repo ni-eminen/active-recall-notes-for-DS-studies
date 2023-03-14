@@ -12,6 +12,8 @@ Hidden layers can make the neural networks nonlinear.
 
 ### What is back-propagation
 
+
+
 ## Feed-Forward Neural Network
 A feed-forward NN is a neural network that doesn't form cycles between its nodes. It is one of the most simple architectures for neural networks.
 
@@ -27,4 +29,7 @@ RNN's learn not only during training, but also while processing new inputs.
 ## Modular NN
 
 ## Transformers
-The transformer model was introduced in Google Brain's paper "Attention is All You Need" in 2017. The transformer model is solely based on multi-head and self attention layers, where no recurrence is needed. The transfomer uses an encoder-decoder architecture. Transformers are significantly faster to train than their predecessors, that used attention in conjunction with convolution and recurrent layers. Since the paper was released, transformers have been used for a wide range of problems from video and audio to text.
+The transformer model was introduced in Google Brain's paper "Attention is All You Need" in 2017. The transformer model is solely based on multi-head and self attention layers, where no recurrence is needed. The transfomer uses an encoder-decoder architecture. Transformers are significantly faster to train than their predecessors that used attention in conjunction with convolution and recurrent layers. Since the paper was released, transformers have been used for a wide range of problems from video and audio to text.
+
+## Residual connection
+A residual connection can make training deep neural networks easier. A residual connection avoids solving exploding and vanishing gradients, thus making it easier for the gradient descent to converge.
